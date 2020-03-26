@@ -105,8 +105,8 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>ClayDesk App</h1>
-    <p>Your first AWS Elastic Beanstalk Application is now running on your own dedicated environment in the AWS Cloud</p>
+    <h1>ClayDesk App New</h1>
+    <p>Your final App running in AWS Cloud</p>
   </div>
   
   <div class="linksColumn"> 
@@ -121,7 +121,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/referenceapp/">Explore a fully-featured reference application using the AWS SDK for Java</a></li>
     </ul>
-    <h2>AWS Toolkit for Eclipse</h2>
+    <h2>ClayDesk E-Learning</h2>
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipse/">Developers may build and deploy AWS Elastic Beanstalk applications directly from Eclipse</a></li>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/eclipsesc/">Get started with Eclipse and AWS Elastic Beanstalk by watching this video</a></li>
