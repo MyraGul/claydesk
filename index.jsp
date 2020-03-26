@@ -34,7 +34,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
   <style>
   body {
     color: #ffffff;
-    background-color: #c7c7c7;
+    background-color: #FF5733;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
